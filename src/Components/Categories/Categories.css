@@ -1,0 +1,28 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.category_wrapper {
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 7px 7px 25px 0px rgba(158,156,158,1);
+    margin-bottom: 20px;
+}
+
+.category span{
+    padding: 8px;
+    border-radius: 4px;
+    background-color: #F64C72;
+    margin-bottom: 50px;
+}
+
+.create_category {
+    margin-bottom: 80px;
+}
+
+.wrapper {
+    margin-top: 70px;
+}
